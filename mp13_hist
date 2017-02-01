@@ -1,0 +1,62 @@
+    1  cd C:\Users\t00195333\Desktop\mp13
+    2  cd"C:\Users\t00195333\Desktop\mp13"
+    3  cd C:\Users\t00195333\Desktop\mp13
+    4  cd https://github.com/johnlane101110/mp13.git
+    5  git init
+    6  cd C:\Users\t00195333\Desktop\mp13
+    7  cd "C:\Users\t00195333\Desktop\mp13"
+    8  git init
+    9  git status
+   10  git add.
+   11  git add .
+   12  git status
+   13  git log
+   14  git remote add origin https://github.com/johnlane101110/mp13.git
+   15  git status
+   16  git log
+   17  git add names.txt
+   18  git add "names.txt"
+   19  git add names.txt
+   20  git add names.txt
+   21  git commit -m "First commit"
+   22  git remote add origin https://github.cm/johnlane101110/mp13.git
+   23  git push -u origin master 
+   24  git add . names.txt
+   25  git add.
+   26  git add .
+   27  git log
+   28  git status 
+   29  git commit -m First commit 
+   30  git commit -m "My first commit\n\nMy very first commit"
+   31  git commit 
+   32  git commit--amend
+   33  git ammed
+   34  git git add names.txt
+   35  git add names.txt
+   36  git status 
+   37  git remote add origin https://github.com/johnlane101110/mp13.git
+   38  git push -u origin master
+   39  git commit 
+   40  cd "C:\Users\t00195333\Desktop\mp13"
+   41  git status
+   42  git remote add origin https://github.com/johnlane101110/mp13.git
+   43  git push -u origin master
+   44  git log
+   45  ls-a
+   46  ls
+   47  git commit -m "first commit"
+   48  git log
+   49  history
+   50  history > mp13_hist
+   51  cat mp13_hist
+   52  ls
+   53  git push -u origin master
+   54  my mp13_hist mp13_hist_1_feb
+   55  mp13_hist_1_feb
+   56  my mp13_hist mp13_hist_1_feb
+   57  ls
+   58  my mp13_hist  mp13_hist _1_Feb
+   59  my mp13_hist  mp13_hist_1_Feb
+   60  mp13_hist
+   61  hist
+   62  history > mp13_hist
